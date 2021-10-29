@@ -2,13 +2,13 @@ package br.com.zup.Ecommerce.EcomerceDTO;
 
 import java.util.List;
 
-public class VendedorDTO {
+public class LeadsDTO {
     private String email;
     private String nome;
     private String telefone;
     private ProdutoDTO produtoDTOS;
 
-    public VendedorDTO() {
+    public LeadsDTO() {
 
     }
 
