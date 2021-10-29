@@ -5,4 +5,5 @@ public class VendedorDTO {
     private String nome;
     private String telefone;
     //composição de lista de produtos
+
 }
